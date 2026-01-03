@@ -1,8 +1,5 @@
 ---
 title: "An Ensemble approach to predict the Edbility of Mushroom"
-subtitle: "DA5030"
-date: "Fall 2025"
-author: "Vansika Kambhampati"
 output:
   html_document:
     df_print: paged
